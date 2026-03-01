@@ -1,9 +1,0 @@
-[theme]
-# Set to "light" or "dark" to force a specific mode
-base = "dark"
-
-# You can also customize exact colors if you want!
-# primaryColor = "#F63366"
-# backgroundColor = "#000000"
-# secondaryBackgroundColor = "#1E1E1E"
-# textColor = "#FFFFFF"
